@@ -4,7 +4,7 @@
 
 Greetings! I'm Kailash Parshad, a dedicated Ethical Hacker, Penetration Tester, and ardent Cybersecurity Enthusiast. My passion for safeguarding digital landscapes and sharing knowledge has been the driving force behind my journey.
 
-## ** 🚀 My Mission:**
+## 🚀 My Mission:
 I firmly believe that education is a birthright, and it should be accessible to all. With this conviction, I launched my YouTube channel, HackProKP, where I'm committed to offering free education in ethical hacking and cybersecurity. It's my way of contributing to a safer digital world and ensuring that knowledge knows no boundaries.
 
    <p align="left">
