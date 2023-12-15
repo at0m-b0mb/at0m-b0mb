@@ -59,9 +59,9 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 ### 📊 Stats
 
-[!at0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=at0m-b0mb&show_icons=true&theme=gruvbox)
+![at0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=at0m-b0mb&show_icons=true&theme=gruvbox)
 
-[!GitHub Streak](https://streak-stats.demolab.com?user=at0m-b0mb&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=at0m-b0mb&theme=gruvbox&border_radius=4.5)
 
 #
 
