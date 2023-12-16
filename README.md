@@ -54,7 +54,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-<div><br/><div/>
+<div><div/>
+<br/> 
 
 ### 📺 Latest YouTube Videos
 
