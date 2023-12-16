@@ -1,4 +1,4 @@
-# 👑 at0m_b0mb
+# 👑 at0m_b0mb 👑
 
 **`Kailash Parshad (Ethical Hacker/Penetration Tester/Youtube Educator)`**
 
@@ -56,6 +56,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 <img/>
 <br/>
+---
+<br>
 
 ### 📺 Latest YouTube Videos
 
