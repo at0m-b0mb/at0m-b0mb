@@ -1,7 +1,7 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every day at 12:00
+    # Runs every hour
     - cron: "0 * * * *"
   push:
     branches:
