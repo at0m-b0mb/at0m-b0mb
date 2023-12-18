@@ -72,28 +72,24 @@ I firmly believe that education is a birthright, and it should be accessible to 
     <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5|%20Part%201.6%20Computer%20Networks%20History&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=330" alt="OSCP Training For FREE 🔥| Part 1.6 Computer Networks History" title="OSCP Training For FREE 🔥| Part 1.6 Computer Networks History">
   </picture>
 </a>
-
 <a href="https://www.youtube.com/watch?v=ngprr3x1iIQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5|%20Part%201.5%20Other%20Network%20Models&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=570">
     <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5|%20Part%201.5%20Other%20Network%20Models&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=570" alt="OSCP Training For FREE 🔥| Part 1.5 Other Network Models" title="OSCP Training For FREE 🔥| Part 1.5 Other Network Models">
   </picture>
 </a>
-
 <a href="https://www.youtube.com/watch?v=u2Ni5ohTatI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5|%20Part%201.4%20OSI%20Model%20Practical%20Example&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
     <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5|%20Part%201.4%20OSI%20Model%20Practical%20Example&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Training For FREE 🔥| Part 1.4 OSI Model Practical Example" title="OSCP Training For FREE 🔥| Part 1.4 OSI Model Practical Example">
   </picture>
 </a>
-
 <a href="https://www.youtube.com/watch?v=kOGot8npd00">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kOGot8npd00&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5%20|%20Part%201.2%20What%20is%20a%20Protocol&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=395">
     <img src="https://ytcards.demolab.com/?id=kOGot8npd00&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5%20|%20Part%201.2%20What%20is%20a%20Protocol&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=395" alt="OSCP Training For FREE 🔥 | Part 1.2 What is a Protocol" title="OSCP Training For FREE 🔥 | Part 1.2 What is a Protocol">
   </picture>
 </a>
-
 <a href="https://www.youtube.com/watch?v=iV2iCXcB6E8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iV2iCXcB6E8&title=OSCP%20Training%20For%20FREE%20%F0%9F%94%A5%20|%20Part%201.1%20What%20is%20the%20Internet&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=336">
