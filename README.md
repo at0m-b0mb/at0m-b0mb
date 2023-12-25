@@ -79,14 +79,16 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 ### 📊 Stats
 
-![at0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=at0m-b0mb&show_icons=true&theme=gruvbox)
+![at0m-b0mb's GitHub stats](https://github-readme-stats.vercel.app/api?username=at0m-b0mb&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=at0m-b0mb&theme=gruvbox&border_radius=4.5)
 
+![at0m-b0mb's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+
 #
 
-<details>
- <summary><h3>👨‍💻 Kailash Parshad's Cyber Security Journey</h3></summary>
+### 👨‍💻 Kailash Parshad's Cyber Security Journey
    Currently pursuing a specialization in Cyber Security, Ethical Hacking, and Penetration Testing at Vellore Institute of Technology, I've honed skills in leadership, programming languages like Python and Java, and effective communication. My educational journey has empowered me to bring a holistic approach to cybersecurity problem-solving. I'm a firm believer in keeping life simple and meaningful. My primary goal is to succeed, not just for myself, but to honor the sacrifices my family made to support my dreams. As I strive for success, I'm driven by the desire to ensure their dreams come true too. In the end, I encourage everyone to chase their dreams, follow their hearts, and pursue happiness relentlessly. Success, in any field, is attainable when driven by passion and guided by dedication.
 ✨Arise, awake, and stop not till the goal is reached✨
 
