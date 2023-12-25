@@ -2,6 +2,8 @@
 
 **`Kailash Parshad (Ethical Hacker/Penetration Tester/Youtube Educator)`**
 
+[![at0m-b0mb](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&pause=1000&color=02F707&vCenter=true&random=false&width=700&height=60&lines=Hello%2C+It's+me+Kailash;I+am+an+Ethical+Hacker%2C;Penetration+Tester%2C;Cybersecurity+Enthusiast%2C;YouTube+Educator!)](https://at0m-b0mb.github.io/)
+
 Greetings! I'm Kailash Parshad, a dedicated Ethical Hacker, Penetration Tester, and ardent Cybersecurity Enthusiast. My passion for safeguarding digital landscapes and sharing knowledge has been the driving force behind my journey.
 
 ## 🚀 My Mission:
@@ -83,7 +85,7 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=at0m-b0mb&theme=gruvbox&border_radius=4.5)
 
-![at0m-b0mb's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![at0m-b0mb's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=1F222E&color=F8D866&line=02F707&point=FFFFFF&hide_border=true)
 
 
 #
