@@ -22,6 +22,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 ---
 
+### 💵Support My Work
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S8SQU39)
+
+---
+
 ### 🧰 Languages and Tools
 
 
