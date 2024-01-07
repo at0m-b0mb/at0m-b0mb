@@ -139,6 +139,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=df-xmVLSasc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=517">
+    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=517" alt="OSCP Roadmap 🛣️ ✅ | Part 1.0.1 P2P and Client-Server Architecture" title="OSCP Roadmap 🛣️ ✅ | Part 1.0.1 P2P and Client-Server Architecture">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=wM3KOIYr0kE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
@@ -167,12 +173,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
     <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Roadmap 🛣️ ✅ | Part 1.4 OSI Model Practical Example" title="OSCP Roadmap 🛣️ ✅ | Part 1.4 OSI Model Practical Example">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ymHfRZGFoaQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ymHfRZGFoaQ&title=Plusivo+Soldering+Kit+with+Multimeter+%7C+Unboxing+and+Review+%7C+Best+for+Beginners%3F+%F0%9F%94%A5&lang=en&timestamp=1700808575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1656">
-    <img src="https://ytcards.demolab.com/?id=ymHfRZGFoaQ&title=Plusivo+Soldering+Kit+with+Multimeter+%7C+Unboxing+and+Review+%7C+Best+for+Beginners%3F+%F0%9F%94%A5&lang=en&timestamp=1700808575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1656" alt="Plusivo Soldering Kit with Multimeter | Unboxing and Review | Best for Beginners? 🔥" title="Plusivo Soldering Kit with Multimeter | Unboxing and Review | Best for Beginners? 🔥">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
