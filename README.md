@@ -141,20 +141,20 @@ I firmly believe that education is a birthright, and it should be accessible to 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=wM3KOIYr0kE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
-    <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Roadmap 🛣️ | Part 1.0.0 What is the Application Layer" title="OSCP Roadmap 🛣️ | Part 1.0.0 What is the Application Layer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
+    <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Roadmap 🛣️ ✅ | Part 1.0.0 What is the Application Layer" title="OSCP Roadmap 🛣️ ✅ | Part 1.0.0 What is the Application Layer">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=Ik4Kdr-dE4A">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=331">
-    <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=331" alt="OSCP Roadmap 🛣️ | Part 1.6 Computer Networks History" title="OSCP Roadmap 🛣️ | Part 1.6 Computer Networks History">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=331">
+    <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=331" alt="OSCP Roadmap 🛣️ ✅ | Part 1.6 Computer Networks History" title="OSCP Roadmap 🛣️ ✅ | Part 1.6 Computer Networks History">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=ngprr3x1iIQ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=571">
-    <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=571" alt="OSCP Roadmap 🛣️ | Part 1.5 Other Network Models" title="OSCP Roadmap 🛣️ | Part 1.5 Other Network Models">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=571">
+    <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=571" alt="OSCP Roadmap 🛣️ ✅ | Part 1.5 Other Network Models" title="OSCP Roadmap 🛣️ ✅ | Part 1.5 Other Network Models">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=OFhGR3u92sE">
@@ -165,8 +165,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 </a>
 <a href="https://www.youtube.com/watch?v=u2Ni5ohTatI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
-    <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Roadmap 🛣️ | Part 1.4 OSI Model Practical Example" title="OSCP Roadmap 🛣️ | Part 1.4 OSI Model Practical Example">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
+    <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Roadmap+%F0%9F%9B%A3%EF%B8%8F+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Roadmap 🛣️ ✅ | Part 1.4 OSI Model Practical Example" title="OSCP Roadmap 🛣️ ✅ | Part 1.4 OSI Model Practical Example">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=ymHfRZGFoaQ">
