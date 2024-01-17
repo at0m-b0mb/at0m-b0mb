@@ -4,6 +4,8 @@
 
 [![at0m-b0mb](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&pause=1000&color=02F707&vCenter=true&random=false&width=700&height=60&lines=Hello%2C+It's+me+Kailash;I+am+an+Ethical+Hacker%2C;Penetration+Tester%2C;Cybersecurity+Enthusiast%2C;YouTube+Educator!)](https://at0m-b0mb.github.io/)
 
+[![Learn Hacking rn](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=35&pause=1000&color=FFFF00&background=FFFFFF00&random=false&width=600&height=60&lines=%E2%9C%A8Learn+Ethical+Hacking+For+Free!!%E2%9C%A8)](https://linktr.ee/HackProKP)
+
 Greetings! I'm Kailash Parshad, a dedicated Ethical Hacker, Penetration Tester, and ardent Cybersecurity Enthusiast. My passion for safeguarding digital landscapes and sharing knowledge has been the driving force behind my journey.
 
 ## 🚀 My Mission:
