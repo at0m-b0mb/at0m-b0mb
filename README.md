@@ -173,8 +173,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 </a>
 <a href="https://www.youtube.com/watch?v=u2Ni5ohTatI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
-    <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Training ✅ | Part 1.4 OSI Model Practical Example" title="OSCP Training ✅ | Part 1.4 OSI Model Practical Example">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example+%2B+LAB&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
+    <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example+%2B+LAB&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Training ✅ | Part 1.4 OSI Model Practical Example + LAB" title="OSCP Training ✅ | Part 1.4 OSI Model Practical Example + LAB">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
