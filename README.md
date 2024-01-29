@@ -142,42 +142,7 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=df-xmVLSasc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=517">
-    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=517" alt="OSCP Training ✅ | Part 1.0.1 P2P and Client-Server Architecture" title="OSCP Training ✅ | Part 1.0.1 P2P and Client-Server Architecture">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=wM3KOIYr0kE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
-    <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Training ✅ | Part 1.0.0 What is the Application Layer" title="OSCP Training ✅ | Part 1.0.0 What is the Application Layer">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Ik4Kdr-dE4A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=331">
-    <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=331" alt="OSCP Training ✅ | Part 1.6 Computer Networks History" title="OSCP Training ✅ | Part 1.6 Computer Networks History">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ngprr3x1iIQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=571">
-    <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=571" alt="OSCP Training ✅ | Part 1.5 Other Network Models" title="OSCP Training ✅ | Part 1.5 Other Network Models">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=OFhGR3u92sE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OFhGR3u92sE&title=Kali+Linux+Image+for+Raspberry+Pi+5+%7C+Build+your+ARM+Image+%7C+Hacking+on+Raspberry+Pi+%2B+Download+Link&lang=en&timestamp=1701761981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=189">
-    <img src="https://ytcards.demolab.com/?id=OFhGR3u92sE&title=Kali+Linux+Image+for+Raspberry+Pi+5+%7C+Build+your+ARM+Image+%7C+Hacking+on+Raspberry+Pi+%2B+Download+Link&lang=en&timestamp=1701761981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=189" alt="Kali Linux Image for Raspberry Pi 5 | Build your ARM Image | Hacking on Raspberry Pi + Download Link" title="Kali Linux Image for Raspberry Pi 5 | Build your ARM Image | Hacking on Raspberry Pi + Download Link">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=u2Ni5ohTatI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example+%2B+LAB&lang=en&timestamp=1701027708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2000">
-    <img src="https://ytcards.demolab.com/?id=u2Ni5ohTatI&title=OSCP+Training+%E2%9C%85+%7C+Part+1.4+OSI+Model+Practical+Example+%2B+LAB&lang=en&timestamp=1701027708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=2000" alt="OSCP Training ✅ | Part 1.4 OSI Model Practical Example + LAB" title="OSCP Training ✅ | Part 1.4 OSI Model Practical Example + LAB">
-  </picture>
-</a>
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
