@@ -142,6 +142,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=aB7z5386JeY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
+    <img src="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=452" alt="OSCP Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)" title="OSCP Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=7tjVdZ3uNmc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=971">
@@ -170,12 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=571">
     <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=571" alt="OSCP Training ✅ | Part 1.5 Other Network Models" title="OSCP Training ✅ | Part 1.5 Other Network Models">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=OFhGR3u92sE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OFhGR3u92sE&title=Kali+Linux+Image+for+Raspberry+Pi+5+%7C+Build+your+ARM+Image+%7C+Hacking+on+Raspberry+Pi+%2B+Download+Link&lang=en&timestamp=1701761981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=189">
-    <img src="https://ytcards.demolab.com/?id=OFhGR3u92sE&title=Kali+Linux+Image+for+Raspberry+Pi+5+%7C+Build+your+ARM+Image+%7C+Hacking+on+Raspberry+Pi+%2B+Download+Link&lang=en&timestamp=1701761981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=189" alt="Kali Linux Image for Raspberry Pi 5 | Build your ARM Image | Hacking on Raspberry Pi + Download Link" title="Kali Linux Image for Raspberry Pi 5 | Build your ARM Image | Hacking on Raspberry Pi + Download Link">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
