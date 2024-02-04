@@ -142,6 +142,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=2rKKi3kRXPI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+with+Antenna+Unboxing+%7C+Antenna+Installation+%7C+Ethical+Hacking+%7C+No+Commentary&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
+    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+with+Antenna+Unboxing+%7C+Antenna+Installation+%7C+Ethical+Hacking+%7C+No+Commentary&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One with Antenna Unboxing | Antenna Installation | Ethical Hacking | No Commentary" title="HackRF One with Antenna Unboxing | Antenna Installation | Ethical Hacking | No Commentary">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=aB7z5386JeY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
@@ -170,12 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=331">
     <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=331" alt="OSCP Training ✅ | Part 1.6 Computer Networks History" title="OSCP Training ✅ | Part 1.6 Computer Networks History">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ngprr3x1iIQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=571">
-    <img src="https://ytcards.demolab.com/?id=ngprr3x1iIQ&title=OSCP+Training+%E2%9C%85+%7C+Part+1.5+Other+Network+Models&lang=en&timestamp=1702278368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=571" alt="OSCP Training ✅ | Part 1.5 Other Network Models" title="OSCP Training ✅ | Part 1.5 Other Network Models">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
