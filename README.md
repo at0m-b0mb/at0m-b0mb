@@ -144,8 +144,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=2rKKi3kRXPI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+Unboxing+%7C+Antenna+Installation+%7C+Ethical+Hacking+%7C+No+Commentary&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
-    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+Unboxing+%7C+Antenna+Installation+%7C+Ethical+Hacking+%7C+No+Commentary&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One Unboxing | Antenna Installation | Ethical Hacking | No Commentary" title="HackRF One Unboxing | Antenna Installation | Ethical Hacking | No Commentary">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
+    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One and Antenna Unboxing" title="HackRF One and Antenna Unboxing">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=aB7z5386JeY">
