@@ -142,10 +142,16 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=mgbXVoQUz84">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
+    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="OSCP Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)" title="OSCP Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=2rKKi3kRXPI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
-    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One and Antenna Unboxing" title="HackRF One and Antenna Unboxing">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing+%7C+Radio+Ethical+Hacking&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
+    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing+%7C+Radio+Ethical+Hacking&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One and Antenna Unboxing | Radio Ethical Hacking" title="HackRF One and Antenna Unboxing | Radio Ethical Hacking">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=aB7z5386JeY">
@@ -170,12 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
     <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Training ✅ | Part 1.0.0 What is the Application Layer" title="OSCP Training ✅ | Part 1.0.0 What is the Application Layer">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Ik4Kdr-dE4A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=331">
-    <img src="https://ytcards.demolab.com/?id=Ik4Kdr-dE4A&title=OSCP+Training+%E2%9C%85+%7C+Part+1.6+Computer+Networks+History&lang=en&timestamp=1702355692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=331" alt="OSCP Training ✅ | Part 1.6 Computer Networks History" title="OSCP Training ✅ | Part 1.6 Computer Networks History">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
