@@ -144,8 +144,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=mgbXVoQUz84">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
-    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="OSCP Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)" title="OSCP Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
+    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="OSCP Networking Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)" title="OSCP Networking Training ✅ | Part 1.0.4 FTP (File Transfer Protocol)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=2rKKi3kRXPI">
@@ -156,26 +156,26 @@ I firmly believe that education is a birthright, and it should be accessible to 
 </a>
 <a href="https://www.youtube.com/watch?v=aB7z5386JeY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
-    <img src="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=452" alt="OSCP Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)" title="OSCP Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
+    <img src="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.3+HTTPS+%28Hypertext+Transfer+Protocol+Secure%29&lang=en&timestamp=1706590063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=452" alt="OSCP Networking Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)" title="OSCP Networking Training ✅ | Part 1.0.3 HTTPS (Hypertext Transfer Protocol Secure)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=7tjVdZ3uNmc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=971">
-    <img src="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=971" alt="OSCP Training ✅ | Part 1.0.2 HTTP (Hypertext Transfer Protocol)" title="OSCP Training ✅ | Part 1.0.2 HTTP (Hypertext Transfer Protocol)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=971">
+    <img src="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=971" alt="OSCP Networking Training ✅ | Part 1.0.2 HTTP (Hypertext Transfer Protocol)" title="OSCP Networking Training ✅ | Part 1.0.2 HTTP (Hypertext Transfer Protocol)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=df-xmVLSasc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=517">
-    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=517" alt="OSCP Training ✅ | Part 1.0.1 P2P and Client-Server Architecture" title="OSCP Training ✅ | Part 1.0.1 P2P and Client-Server Architecture">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=517">
+    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=517" alt="OSCP Networking Training ✅ | Part 1.0.1 P2P and Client-Server Architecture" title="OSCP Networking Training ✅ | Part 1.0.1 P2P and Client-Server Architecture">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=wM3KOIYr0kE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
-    <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Training ✅ | Part 1.0.0 What is the Application Layer" title="OSCP Training ✅ | Part 1.0.0 What is the Application Layer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=475">
+    <img src="https://ytcards.demolab.com/?id=wM3KOIYr0kE&title=OSCP+Networking+Training+%E2%9C%85+%7C+Part+1.0.0+What+is+the+Application+Layer&lang=en&timestamp=1703191108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=475" alt="OSCP Networking Training ✅ | Part 1.0.0 What is the Application Layer" title="OSCP Networking Training ✅ | Part 1.0.0 What is the Application Layer">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
