@@ -142,40 +142,40 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=3cn3_6bTev8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=98">
+    <img src="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=98" alt="SDR | nuand's Blade RF Unboxing!" title="SDR | nuand's Blade RF Unboxing!">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=6S6e45InyEY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6S6e45InyEY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.6+DNS&lang=en&timestamp=1710107527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=812">
+    <img src="https://ytcards.demolab.com/?id=6S6e45InyEY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.6+DNS&lang=en&timestamp=1710107527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=812" alt="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.6 DNS" title="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.6 DNS">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=hCPcywdT-TY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.5+Email+%28Electronic+Mail%29&lang=en&timestamp=1708295592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=648">
-    <img src="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.5+Email+%28Electronic+Mail%29&lang=en&timestamp=1708295592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=648" alt="OSCP Training ✅ | Application Layer | Part 1.0.5 Email (Electronic Mail)" title="OSCP Training ✅ | Application Layer | Part 1.0.5 Email (Electronic Mail)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.5+Email+%28Electronic+Mail%29&lang=en&timestamp=1708295592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=648">
+    <img src="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.5+Email+%28Electronic+Mail%29&lang=en&timestamp=1708295592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=648" alt="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.5 Email (Electronic Mail)" title="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.5 Email (Electronic Mail)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=mgbXVoQUz84">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
-    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="OSCP Training ✅ | Application Layer | Part 1.0.4 FTP (File Transfer Protocol)" title="OSCP Training ✅ | Application Layer | Part 1.0.4 FTP (File Transfer Protocol)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
+    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.4+FTP+%28File+Transfer+Protocol%29&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.4 FTP (File Transfer Protocol)" title="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.4 FTP (File Transfer Protocol)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=2rKKi3kRXPI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing+%7C+Radio+Ethical+Hacking&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
-    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=HackRF+One+and+Antenna+Unboxing+%7C+Radio+Ethical+Hacking&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="HackRF One and Antenna Unboxing | Radio Ethical Hacking" title="HackRF One and Antenna Unboxing | Radio Ethical Hacking">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=SDR+%7C+Great+Scott+Gadgets%27+HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=97">
+    <img src="https://ytcards.demolab.com/?id=2rKKi3kRXPI&title=SDR+%7C+Great+Scott+Gadgets%27+HackRF+One+and+Antenna+Unboxing&lang=en&timestamp=1707047653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=97" alt="SDR | Great Scott Gadgets' HackRF One and Antenna Unboxing" title="SDR | Great Scott Gadgets' HackRF One and Antenna Unboxing">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=aB7z5386JeY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.3+HTTPS+Hypertext+Transfer+Protocol+Secure&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
-    <img src="https://ytcards.demolab.com/?id=aB7z5386JeY&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.3+HTTPS+Hypertext+Transfer+Protocol+Secure&lang=en&timestamp=1706590063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=452" alt="OSCP Training ✅ | Application Layer | Part 1.0.3 HTTPS Hypertext Transfer Protocol Secure" title="OSCP Training ✅ | Application Layer | Part 1.0.3 HTTPS Hypertext Transfer Protocol Secure">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=7tjVdZ3uNmc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=971">
-    <img src="https://ytcards.demolab.com/?id=7tjVdZ3uNmc&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.2+HTTP+%28Hypertext+Transfer+Protocol%29&lang=en&timestamp=1706541300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=971" alt="OSCP Training ✅ | Application Layer | Part 1.0.2 HTTP (Hypertext Transfer Protocol)" title="OSCP Training ✅ | Application Layer | Part 1.0.2 HTTP (Hypertext Transfer Protocol)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=df-xmVLSasc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=517">
-    <img src="https://ytcards.demolab.com/?id=df-xmVLSasc&title=OSCP+Training+%E2%9C%85+%7C+Application+Layer+%7C+Part+1.0.1+P2P+and+Client-Server+Architecture&lang=en&timestamp=1704631419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=517" alt="OSCP Training ✅ | Application Layer | Part 1.0.1 P2P and Client-Server Architecture" title="OSCP Training ✅ | Application Layer | Part 1.0.1 P2P and Client-Server Architecture">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aB7z5386JeY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.3+HTTPS&lang=en&timestamp=1706590063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=452">
+    <img src="https://ytcards.demolab.com/?id=aB7z5386JeY&title=Mastering+OSCP%3A+Free+Training+Series+on+Ethical+Hacking+%7C+Part+1.0.3+HTTPS&lang=en&timestamp=1706590063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=452" alt="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.3 HTTPS" title="Mastering OSCP: Free Training Series on Ethical Hacking | Part 1.0.3 HTTPS">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
