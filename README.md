@@ -187,10 +187,10 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📊 Stats
 
 <p align = "center">
-  <img src = 'https://github-readme-stats.vercel.app/api?username=at0m-b0mb&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=at0m-b0mb&theme=dark&hide_border=true" width = 430 />
-  <img src="https://github-profile-trophy.vercel.app/?username=at0m-b0mb&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=8">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=1F222E&color=F8D866&line=02F707&point=FFFFFF&hide_border=true" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=at0m-b0mb&bg_color=30,FFD700,FFA500,FF4500&title_color=000&text_color=000&hide_border=true" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=at0m-b0mb&theme=highcontrast&fire=FFD700&ring=FFA500&hide_border=true" width = 440 />
+  <img src = "https://github-profile-trophy.vercel.app/?username=at0m-b0mb&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=8">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=1F222E&color=F8D866&line=02F707&point=FFFFFF&hide_border=true" />
 </p>
 
 #
