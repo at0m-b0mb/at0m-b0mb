@@ -188,7 +188,7 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 <p align = "center">
   <img src = 'https://github-readme-stats.vercel.app/api?username=at0m-b0mb&bg_color=30,e96443,904e95&title_color=fff&text_color=fff' width = 400 />
-  <img src = "https://streak-stats.demolab.com?user=at0m-b0mb&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=at0m-b0mb&theme=dark&hide_border=true" width = 400 />
   <img src="https://github-profile-trophy.vercel.app/?username=at0m-b0mb&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=8">
 </p>
 
