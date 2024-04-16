@@ -21,7 +21,7 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           max_videos: 6
           base_url: https://ytcards.demolab.com/
-          card_width: 300
+          card_width: 250
           border_radius: 5
           background_color: "#0d1117"
           title_color: "#ffffff"
@@ -35,4 +35,4 @@ jobs:
           commit_message: "docs(readme): Update YouTube cards"
           readme_path: README.md
           output_only: false
-          output_type: markdown
+          output_type: html
