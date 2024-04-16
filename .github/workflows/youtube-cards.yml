@@ -1,8 +1,8 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs ever hour
-    - cron: "12 * * * *"
+    # Runs ever 0:00
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
