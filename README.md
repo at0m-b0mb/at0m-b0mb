@@ -142,6 +142,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=I9l4j4W6leg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=Computer+Network+made+Easy%21+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=52">
+    <img src="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=Computer+Network+made+Easy%21+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=52" alt="Computer Network made Easy! #networking #computernetworking" title="Computer Network made Easy! #networking #computernetworking">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=AA2Q55LWWfA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AA2Q55LWWfA&title=How+to+Take+Proper+Notes+for+Ethical+Hackers+%23notetaking+%23hacking+%23ethicalhacking&lang=en&timestamp=1712944920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=53">
@@ -170,12 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.5+Email&lang=en&timestamp=1708295592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=648">
     <img src="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.5+Email&lang=en&timestamp=1708295592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=648" alt="OSCP | PEN-200 | PWK | Part 1.0.5 Email" title="OSCP | PEN-200 | PWK | Part 1.0.5 Email">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=mgbXVoQUz84">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.4+FTP&lang=en&timestamp=1708199927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=493">
-    <img src="https://ytcards.demolab.com/?id=mgbXVoQUz84&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.4+FTP&lang=en&timestamp=1708199927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=493" alt="OSCP | PEN-200 | PWK | Part 1.0.4 FTP" title="OSCP | PEN-200 | PWK | Part 1.0.4 FTP">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
