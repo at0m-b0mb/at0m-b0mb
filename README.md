@@ -142,10 +142,22 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=rBZfGjtPo1c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rBZfGjtPo1c&title=Types+of+Computer+Networks+Part+2+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=37">
+    <img src="https://ytcards.demolab.com/?id=rBZfGjtPo1c&title=Types+of+Computer+Networks+Part+2+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=37" alt="Types of Computer Networks Part 2 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking" title="Types of Computer Networks Part 2 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ny7U31lIKnQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ny7U31lIKnQ&title=Types+of+Computer+Networks+Part+1+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=54">
+    <img src="https://ytcards.demolab.com/?id=ny7U31lIKnQ&title=Types+of+Computer+Networks+Part+1+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=54" alt="Types of Computer Networks Part 1 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking" title="Types of Computer Networks Part 1 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=I9l4j4W6leg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=Computer+Network+made+Easy%21+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=52">
-    <img src="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=Computer+Network+made+Easy%21+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=52" alt="Computer Network made Easy! #networking #computernetworking" title="Computer Network made Easy! #networking #computernetworking">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=52">
+    <img src="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=52" alt="What is a Computer Network #networking #computernetworking" title="What is a Computer Network #networking #computernetworking">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=AA2Q55LWWfA">
@@ -164,18 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=98">
     <img src="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=98" alt="SDR | nuand's Blade RF Unboxing!" title="SDR | nuand's Blade RF Unboxing!">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6S6e45InyEY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6S6e45InyEY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.6+DNS&lang=en&timestamp=1710107527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=812">
-    <img src="https://ytcards.demolab.com/?id=6S6e45InyEY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.6+DNS&lang=en&timestamp=1710107527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=812" alt="OSCP | PEN-200 | PWK | Part 1.0.6 DNS" title="OSCP | PEN-200 | PWK | Part 1.0.6 DNS">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hCPcywdT-TY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.5+Email&lang=en&timestamp=1708295592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=648">
-    <img src="https://ytcards.demolab.com/?id=hCPcywdT-TY&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.5+Email&lang=en&timestamp=1708295592&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=648" alt="OSCP | PEN-200 | PWK | Part 1.0.5 Email" title="OSCP | PEN-200 | PWK | Part 1.0.5 Email">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
