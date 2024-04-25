@@ -142,6 +142,18 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=_y9YrPSJ0yw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_y9YrPSJ0yw&title=What+is+the+Internet%2C+explained+by+AI+Part+2+%23internet&lang=en&timestamp=1713981824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=59">
+    <img src="https://ytcards.demolab.com/?id=_y9YrPSJ0yw&title=What+is+the+Internet%2C+explained+by+AI+Part+2+%23internet&lang=en&timestamp=1713981824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=59" alt="What is the Internet, explained by AI Part 2 #internet" title="What is the Internet, explained by AI Part 2 #internet">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=_Mp6yRBRKGM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_Mp6yRBRKGM&title=What+is+the+Internet%2C+explained+by+AI+Part+1+%23internet&lang=en&timestamp=1713981435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60">
+    <img src="https://ytcards.demolab.com/?id=_Mp6yRBRKGM&title=What+is+the+Internet%2C+explained+by+AI+Part+1+%23internet&lang=en&timestamp=1713981435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=60" alt="What is the Internet, explained by AI Part 1 #internet" title="What is the Internet, explained by AI Part 1 #internet">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=rBZfGjtPo1c">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rBZfGjtPo1c&title=Types+of+Computer+Networks+Part+2+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=37">
@@ -164,18 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AA2Q55LWWfA&title=How+to+Take+Proper+Notes+for+Ethical+Hackers+%23notetaking+%23hacking+%23ethicalhacking&lang=en&timestamp=1712944920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=53">
     <img src="https://ytcards.demolab.com/?id=AA2Q55LWWfA&title=How+to+Take+Proper+Notes+for+Ethical+Hackers+%23notetaking+%23hacking+%23ethicalhacking&lang=en&timestamp=1712944920&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=53" alt="How to Take Proper Notes for Ethical Hackers #notetaking #hacking #ethicalhacking" title="How to Take Proper Notes for Ethical Hackers #notetaking #hacking #ethicalhacking">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=l-7UKwtzlbc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-7UKwtzlbc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.7+Remote+Access&lang=en&timestamp=1712847044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1117">
-    <img src="https://ytcards.demolab.com/?id=l-7UKwtzlbc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.0.7+Remote+Access&lang=en&timestamp=1712847044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1117" alt="OSCP | PEN-200 | PWK | Part 1.0.7 Remote Access" title="OSCP | PEN-200 | PWK | Part 1.0.7 Remote Access">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=3cn3_6bTev8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=98">
-    <img src="https://ytcards.demolab.com/?id=3cn3_6bTev8&title=SDR+%7C+nuand%27s+Blade+RF+Unboxing%21&lang=en&timestamp=1712257655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=98" alt="SDR | nuand's Blade RF Unboxing!" title="SDR | nuand's Blade RF Unboxing!">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
