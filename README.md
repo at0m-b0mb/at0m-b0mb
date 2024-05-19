@@ -142,6 +142,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=OQEzxXq6_80">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OQEzxXq6_80&title=What+are+Protocols+in+the+Computer+World%21+%23protocol++%23computernetwork&lang=en&timestamp=1716050131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=50">
+    <img src="https://ytcards.demolab.com/?id=OQEzxXq6_80&title=What+are+Protocols+in+the+Computer+World%21+%23protocol++%23computernetwork&lang=en&timestamp=1716050131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=50" alt="What are Protocols in the Computer World! #protocol  #computernetwork" title="What are Protocols in the Computer World! #protocol  #computernetwork">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=_y9YrPSJ0yw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_y9YrPSJ0yw&title=What+is+the+Internet%2C+explained+by+AI+Part+2+%23internet&lang=en&timestamp=1713981824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=59">
@@ -170,12 +176,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=52">
     <img src="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=52" alt="What is a Computer Network #networking #computernetworking" title="What is a Computer Network #networking #computernetworking">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=AA2Q55LWWfA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AA2Q55LWWfA&title=How+to+Take+Proper+Notes+for+Ethical+Hackers+%23notetaking+%23hacking+%23ethicalhacking&lang=en&timestamp=1712944920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=53">
-    <img src="https://ytcards.demolab.com/?id=AA2Q55LWWfA&title=How+to+Take+Proper+Notes+for+Ethical+Hackers+%23notetaking+%23hacking+%23ethicalhacking&lang=en&timestamp=1712944920&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=53" alt="How to Take Proper Notes for Ethical Hackers #notetaking #hacking #ethicalhacking" title="How to Take Proper Notes for Ethical Hackers #notetaking #hacking #ethicalhacking">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
