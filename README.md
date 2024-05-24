@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 # 👑 HackProKP 👑
 
 **`Kailash Parshad (Ethical Hacker/Penetration Tester/Youtube Educator)`**
@@ -201,3 +203,5 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 [website]: https://at0m-b0mb.github.io/
 [YouTube]: https://youtube.com/@HackProKP
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
