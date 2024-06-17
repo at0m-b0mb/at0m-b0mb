@@ -144,6 +144,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=SF9o8IRyZC4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1411">
+    <img src="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1411" alt="OSCP | PEN-200 | PWK | Part 1.2.0 Introduction to the Transport Layer" title="OSCP | PEN-200 | PWK | Part 1.2.0 Introduction to the Transport Layer">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=OQEzxXq6_80">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OQEzxXq6_80&title=What+are+Protocols+in+the+Computer+World%21+%23protocol++%23computernetwork&lang=en&timestamp=1716050131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=50">
@@ -172,12 +178,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ny7U31lIKnQ&title=Types+of+Computer+Networks+Part+1+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=54">
     <img src="https://ytcards.demolab.com/?id=ny7U31lIKnQ&title=Types+of+Computer+Networks+Part+1+%23LAN+%23MAN+%23WAN+%23WLAN+%23PAN+%23networking+%23CN+%23computernetworking&lang=en&timestamp=1713800489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=54" alt="Types of Computer Networks Part 1 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking" title="Types of Computer Networks Part 1 #LAN #MAN #WAN #WLAN #PAN #networking #CN #computernetworking">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=I9l4j4W6leg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=52">
-    <img src="https://ytcards.demolab.com/?id=I9l4j4W6leg&title=What+is+a+Computer+Network+%23networking+%23computernetworking&lang=en&timestamp=1713743677&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=52" alt="What is a Computer Network #networking #computernetworking" title="What is a Computer Network #networking #computernetworking">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
