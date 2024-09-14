@@ -144,6 +144,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=bspj7BpnM2g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bspj7BpnM2g&title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&lang=en&timestamp=1726254652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=34">
+    <img src="https://ytcards.demolab.com/?id=bspj7BpnM2g&title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&lang=en&timestamp=1726254652&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=34" alt="What is the Application Layer #networking #computernetworking #tcpip #shorts" title="What is the Application Layer #networking #computernetworking #tcpip #shorts">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=nR-KmFamb2o">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nR-KmFamb2o&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.2+UDP+Checksum&lang=en&timestamp=1723567781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=638">
@@ -172,12 +178,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1411">
     <img src="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1411" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.0 Introduction to the Transport Layer" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.0 Introduction to the Transport Layer">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=OQEzxXq6_80">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OQEzxXq6_80&title=What+are+Protocols+in+the+Computer+World%21+%23protocol++%23computernetwork&lang=en&timestamp=1716050131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=50">
-    <img src="https://ytcards.demolab.com/?id=OQEzxXq6_80&title=What+are+Protocols+in+the+Computer+World%21+%23protocol++%23computernetwork&lang=en&timestamp=1716050131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=50" alt="What are Protocols in the Computer World! #protocol  #computernetwork" title="What are Protocols in the Computer World! #protocol  #computernetwork">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
