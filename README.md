@@ -144,6 +144,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=OURXObSNZbA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OURXObSNZbA&title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&lang=en&timestamp=1726847769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=44">
+    <img src="https://ytcards.demolab.com/?id=OURXObSNZbA&title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&lang=en&timestamp=1726847769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=44" alt="P2P and Client Server Architecture #p2p #clientserver #networking #shorts" title="P2P and Client Server Architecture #p2p #clientserver #networking #shorts">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=bspj7BpnM2g">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bspj7BpnM2g&title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&lang=en&timestamp=1726254652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=34">
@@ -172,12 +178,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XPcyarOEnLA&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.1+UDP+User+Datagram+Protocol&lang=en&timestamp=1720334936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=549">
     <img src="https://ytcards.demolab.com/?id=XPcyarOEnLA&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.1+UDP+User+Datagram+Protocol&lang=en&timestamp=1720334936&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=549" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.1 UDP User Datagram Protocol" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.1 UDP User Datagram Protocol">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=SF9o8IRyZC4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1411">
-    <img src="https://ytcards.demolab.com/?id=SF9o8IRyZC4&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.0+Introduction+to+the+Transport+Layer&lang=en&timestamp=1718549683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1411" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.0 Introduction to the Transport Layer" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.0 Introduction to the Transport Layer">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
