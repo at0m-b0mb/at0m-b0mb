@@ -144,6 +144,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=hmONuFJAaXc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hmONuFJAaXc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&lang=en&timestamp=1728572577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1062">
+    <img src="https://ytcards.demolab.com/?id=hmONuFJAaXc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&lang=en&timestamp=1728572577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1062" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=VhGi6v7e_Nc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VhGi6v7e_Nc&title=What+is+the+HTTP+Protocol+%23http+%23networking+%23computernetwork+++%23shorts&lang=en&timestamp=1727905912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=55">
@@ -172,12 +178,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7jQNhXE1RT4&title=The+OSI+Model+Part+2+%23osimodel+%23networking&lang=en&timestamp=1722882398&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=46">
     <img src="https://ytcards.demolab.com/?id=7jQNhXE1RT4&title=The+OSI+Model+Part+2+%23osimodel+%23networking&lang=en&timestamp=1722882398&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=46" alt="The OSI Model Part 2 #osimodel #networking" title="The OSI Model Part 2 #osimodel #networking">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=xsDTEH5_K-E">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsDTEH5_K-E&title=The+OSI+Model+Part+1+%23osimodel+%23networking&lang=en&timestamp=1722882200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=53">
-    <img src="https://ytcards.demolab.com/?id=xsDTEH5_K-E&title=The+OSI+Model+Part+1+%23osimodel+%23networking&lang=en&timestamp=1722882200&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=53" alt="The OSI Model Part 1 #osimodel #networking" title="The OSI Model Part 1 #osimodel #networking">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
