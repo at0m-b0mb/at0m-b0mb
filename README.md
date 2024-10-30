@@ -144,6 +144,12 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=uKp7bxS9kQs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKp7bxS9kQs&title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&lang=en&timestamp=1730229819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=283">
+    <img src="https://ytcards.demolab.com/?id=uKp7bxS9kQs&title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&lang=en&timestamp=1730229819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=283" alt="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide" title="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=hmONuFJAaXc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hmONuFJAaXc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&lang=en&timestamp=1728572577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1062">
@@ -172,12 +178,6 @@ I firmly believe that education is a birthright, and it should be accessible to 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nR-KmFamb2o&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.2+UDP+Checksum&lang=en&timestamp=1723567781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=638">
     <img src="https://ytcards.demolab.com/?id=nR-KmFamb2o&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.2+UDP+Checksum&lang=en&timestamp=1723567781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=638" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.2 UDP Checksum" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.2 UDP Checksum">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=7jQNhXE1RT4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7jQNhXE1RT4&title=The+OSI+Model+Part+2+%23osimodel+%23networking&lang=en&timestamp=1722882398&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=46">
-    <img src="https://ytcards.demolab.com/?id=7jQNhXE1RT4&title=The+OSI+Model+Part+2+%23osimodel+%23networking&lang=en&timestamp=1722882398&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=46" alt="The OSI Model Part 2 #osimodel #networking" title="The OSI Model Part 2 #osimodel #networking">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
