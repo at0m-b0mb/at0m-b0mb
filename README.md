@@ -26,12 +26,14 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 ---
 
+<!-- 
 ### 💵 Support My Work
 
    <p align="left">
       <a href='https://ko-fi.com/hackprokp' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
       <a href="https://www.buymeacoffee.com/HackProKP" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
    </p>
+-->
 
 ---
 
