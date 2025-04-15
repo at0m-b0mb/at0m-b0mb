@@ -24,9 +24,9 @@ I firmly believe that education is a birthright, and it should be accessible to 
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/at0m-b0mb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<!-- 
 ---
 
-<!-- 
 ### 💵 Support My Work
 
    <p align="left">
