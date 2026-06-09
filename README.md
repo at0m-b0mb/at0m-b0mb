@@ -202,42 +202,7 @@ I firmly believe that education is a birthright, and it should be accessible to 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=DJ4HqtILik0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DJ4HqtILik0&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.3.0+Network+Layer&lang=en&timestamp=1771810386&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=297">
-    <img src="https://ytcards.demolab.com/?id=DJ4HqtILik0&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.3.0+Network+Layer&lang=en&timestamp=1771810386&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=297" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.3.0 Network Layer" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.3.0 Network Layer">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=uKp7bxS9kQs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKp7bxS9kQs&title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&lang=en&timestamp=1730229819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=283">
-    <img src="https://ytcards.demolab.com/?id=uKp7bxS9kQs&title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&lang=en&timestamp=1730229819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=283" alt="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide" title="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hmONuFJAaXc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hmONuFJAaXc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&lang=en&timestamp=1728572577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1062">
-    <img src="https://ytcards.demolab.com/?id=hmONuFJAaXc&title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&lang=en&timestamp=1728572577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=1062" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/VhGi6v7e_Nc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VhGi6v7e_Nc&title=What+is+the+HTTP+Protocol+%23http+%23networking+%23computernetwork+++%23shorts&lang=en&timestamp=1727905912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=55">
-    <img src="https://ytcards.demolab.com/?id=VhGi6v7e_Nc&title=What+is+the+HTTP+Protocol+%23http+%23networking+%23computernetwork+++%23shorts&lang=en&timestamp=1727905912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=55" alt="What is the HTTP Protocol #http #networking #computernetwork   #shorts" title="What is the HTTP Protocol #http #networking #computernetwork   #shorts">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/OURXObSNZbA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OURXObSNZbA&title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&lang=en&timestamp=1726847769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=44">
-    <img src="https://ytcards.demolab.com/?id=OURXObSNZbA&title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&lang=en&timestamp=1726847769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=44" alt="P2P and Client Server Architecture #p2p #clientserver #networking #shorts" title="P2P and Client Server Architecture #p2p #clientserver #networking #shorts">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/bspj7BpnM2g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bspj7BpnM2g&title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&lang=en&timestamp=1726254652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=34">
-    <img src="https://ytcards.demolab.com/?id=bspj7BpnM2g&title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&lang=en&timestamp=1726254652&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=34" alt="What is the Application Layer #networking #computernetworking #tcpip #shorts" title="What is the Application Layer #networking #computernetworking #tcpip #shorts">
-  </picture>
-</a>
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
