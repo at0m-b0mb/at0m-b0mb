@@ -465,7 +465,42 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://www.youtube.com/watch?v=DJ4HqtILik0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DJ4HqtILik0&amp;title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.3.0+Network+Layer&amp;lang=en&amp;timestamp=1771810386&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=297">
+    <img src="https://ytcards.demolab.com/?id=DJ4HqtILik0&amp;title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.3.0+Network+Layer&amp;lang=en&amp;timestamp=1771810386&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=297" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.3.0 Network Layer" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.3.0 Network Layer">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=uKp7bxS9kQs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKp7bxS9kQs&amp;title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&amp;lang=en&amp;timestamp=1730229819&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=283">
+    <img src="https://ytcards.demolab.com/?id=uKp7bxS9kQs&amp;title=How+to+Overclock+and+Burn+the+Bootloader+on+ATtiny85+with+Arduino+ISP+%7C+Beginner-Friendly+Guide&amp;lang=en&amp;timestamp=1730229819&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=283" alt="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide" title="How to Overclock and Burn the Bootloader on ATtiny85 with Arduino ISP | Beginner-Friendly Guide">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=hmONuFJAaXc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hmONuFJAaXc&amp;title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&amp;lang=en&amp;timestamp=1728572577&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=1062">
+    <img src="https://ytcards.demolab.com/?id=hmONuFJAaXc&amp;title=OSCP+%7C+PEN-200+%7C+PWK+%7C+Ethical+Hacking+%7C+Part+1.2.3+TCP+Transmission+Control+Protocol&amp;lang=en&amp;timestamp=1728572577&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=1062" alt="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol" title="OSCP | PEN-200 | PWK | Ethical Hacking | Part 1.2.3 TCP Transmission Control Protocol">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=VhGi6v7e_Nc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VhGi6v7e_Nc&amp;title=What+is+the+HTTP+Protocol+%23http+%23networking+%23computernetwork+++%23shorts&amp;lang=en&amp;timestamp=1727905912&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=55">
+    <img src="https://ytcards.demolab.com/?id=VhGi6v7e_Nc&amp;title=What+is+the+HTTP+Protocol+%23http+%23networking+%23computernetwork+++%23shorts&amp;lang=en&amp;timestamp=1727905912&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=55" alt="What is the HTTP Protocol #http #networking #computernetwork   #shorts" title="What is the HTTP Protocol #http #networking #computernetwork   #shorts">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=OURXObSNZbA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OURXObSNZbA&amp;title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&amp;lang=en&amp;timestamp=1726847769&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=44">
+    <img src="https://ytcards.demolab.com/?id=OURXObSNZbA&amp;title=P2P+and+Client+Server+Architecture+%23p2p+%23clientserver+%23networking+%23shorts&amp;lang=en&amp;timestamp=1726847769&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=44" alt="P2P and Client Server Architecture #p2p #clientserver #networking #shorts" title="P2P and Client Server Architecture #p2p #clientserver #networking #shorts">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=bspj7BpnM2g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bspj7BpnM2g&amp;title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&amp;lang=en&amp;timestamp=1726254652&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=34">
+    <img src="https://ytcards.demolab.com/?id=bspj7BpnM2g&amp;title=What+is+the+Application+Layer+%23networking+%23computernetworking+%23tcpip+%23shorts&amp;lang=en&amp;timestamp=1726254652&amp;background_color=%23ffffff&amp;title_color=%2324292f&amp;stats_color=%2357606a&amp;max_title_lines=2&amp;width=250&amp;border_radius=5&amp;duration=34" alt="What is the Application Layer #networking #computernetworking #tcpip #shorts" title="What is the Application Layer #networking #computernetworking #tcpip #shorts">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
