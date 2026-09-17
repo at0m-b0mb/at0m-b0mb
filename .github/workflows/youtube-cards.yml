@@ -1,56 +1,68 @@
 name: GitHub Readme YouTube Cards
+
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+# Shared with the stats job: both commit to README.md.
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
-      - id: cards
-        uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          # The action declares channel_id optional with an empty default, so an
-          # unset secret silently queries nothing. The id is public, so fall back
-          # to it rather than depending on the secret being present.
-          channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID || 'UC2AMoUO4AwOk69rFFliDfKQ' }}
-          lang: en
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          max_videos: 6
-          base_url: https://ytcards.demolab.com/
-          card_width: 250
-          border_radius: 5
-          background_color: "#0d1117"
-          title_color: "#ffffff"
-          stats_color: "#dedede"
-          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
-          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
-          max_title_lines: 2
-          show_duration: true 
-          author_name: GitHub Actions
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_message: "docs(readme): Update YouTube cards"
-          readme_path: README.md
-          output_only: false
-          output_type: html
+      - uses: actions/checkout@v4
 
-      # The action reports success even when the API returns nothing, which is
-      # how this section silently emptied itself on 2026-09-08 and stayed blank.
-      # Turn that into a visible failure.
-      - name: Verify cards were actually generated
-        if: always() && steps.cards.outcome == 'success'
+      - name: Check the API key is present
+        id: guard
         env:
-          CARDS: ${{ steps.cards.outputs.markdown }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          if [ -z "${CARDS//[[:space:]]/}" ]; then
-            echo "::error::The action produced no cards. YOUTUBE_API_KEY is most likely expired, restricted to the wrong API, or out of quota; YOUTUBE_CHANNEL_ID may also be unset."
-            exit 1
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "::notice::YOUTUBE_API_KEY is not set - skipping. Add it under Settings > Secrets and variables > Actions."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
           fi
-          echo "Generated $(printf '%s' "$CARDS" | grep -c '<a href' || true) card(s)."
+
+      # Was DenverCoder1/github-readme-youtube-cards. That action reads its
+      # video list from youtube.com/feeds/videos.xml, which YouTube retired -
+      # it now 404s for every channel, so the action quietly wrote an empty
+      # section from 2026-09-08 on. The card images below still come from
+      # ytcards.demolab.com; only the data source moved to the Data API.
+      - name: Build cards from the YouTube Data API
+        id: cards
+        if: steps.guard.outputs.configured == 'true'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID || 'UC2AMoUO4AwOk69rFFliDfKQ' }}
+          README_PATH: README.md
+          MAX_VIDEOS: "6"
+          LANG_CODE: en
+          CARD_WIDTH: "250"
+          BORDER_RADIUS: "5"
+          MAX_TITLE_LINES: "2"
+        run: python3 .github/scripts/youtube_cards.py
+
+      - name: Commit the refreshed cards
+        if: steps.cards.outputs.changed == 'true'
+        env:
+          GIT_AUTHOR_NAME: GitHub Actions
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: GitHub Actions
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add README.md
+          git commit -m "docs(readme): Update YouTube cards"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push attempt ${attempt} failed, retrying"
+            sleep 5
+          done
+          echo "::error::Could not push the updated README after 3 attempts."
+          exit 1
