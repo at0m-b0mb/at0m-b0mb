@@ -1,30 +1,37 @@
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+<img src="https://i.imgur.com/6tu60vO.gif" width="300000" alt="horizontal super thin rainbow RGB line">
+
+<div align="center">
 
 # 👑 HackProKP 👑
 
-**`Kailash Parshad (Ethical Hacker/Penetration Tester/Youtube Educator)`**
+**`Kailash Parshad — Ethical Hacker · Penetration Tester · Security Tool Builder · YouTube Educator`**
 
 [![at0m-b0mb](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&pause=1000&color=02F707&vCenter=true&random=false&width=700&height=60&lines=Hello%2C+It's+me+Kailash;I+am+an+Ethical+Hacker%2C;Penetration+Tester%2C;Cybersecurity+Enthusiast%2C;YouTube+Educator!)](https://at0m-b0mb.github.io/)
 
 [![Learn Hacking rn](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=35&pause=1000&color=FFFF00&background=FFFFFF00&random=false&width=600&height=60&lines=%E2%9C%A8Learn+Ethical+Hacking+For+Free!!%E2%9C%A8)](https://linktr.ee/HackProKP)
 
-Greetings! I'm Kailash Parshad, a dedicated Ethical Hacker, Penetration Tester, and ardent Cybersecurity Enthusiast. My passion for safeguarding digital landscapes and sharing knowledge has been the driving force behind my journey.
+<a href="https://www.youtube.com/@HackProKP?sub_confirmation=1">
+   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+<a href="https://www.youtube.com/@HackProKP">
+   <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+<a href="https://github.com/at0m-b0mb?tab=followers">
+   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/at0m-b0mb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/at0m-b0mb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories">
+   <img alt="public repos" title="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fat0m-b0mb&query=%24.public_repos&label=Repos&color=FFD700&labelColor=C79600&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 🚀 My Mission:
-I firmly believe that education is a birthright, and it should be accessible to all. With this conviction, I launched my YouTube channel, HackProKP, where I'm committed to offering free education in ethical hacking and cybersecurity. It's my way of contributing to a safer digital world and ensuring that knowledge knows no boundaries.
+</div>
 
-   <p align="left">
-      <a href="https://www.youtube.com/@HackProKP?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@HackProKP">
-         <img alt="youtube views" title=" YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2AMoUO4AwOk69rFFliDfKQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/at0m-b0mb?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/at0m-b0mb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/at0m-b0mb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration Tester and ardent Cybersecurity Enthusiast. I build **security tools that tell the truth**: hardware and software that let an ordinary person check whether the thing in their pocket, their car park or their wall is actually safe. Then I give them away, and teach how they work on YouTube.
 
-<!-- 
+<div align="center">
+
+**🔎 Counter-surveillance · 📡 RF & hardware security · 🛡️ Blue team tooling · 🤖 AI agent security · 🎓 Free education**
+
+</div>
+
+<!--
 ---
 
 ### 💵 Support My Work
@@ -34,6 +41,242 @@ I firmly believe that education is a birthright, and it should be accessible to 
       <a href="https://www.buymeacoffee.com/HackProKP" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
    </p>
 -->
+
+---
+
+## 🧭 How I Build
+
+> **Defence first, by love. Red team by necessity — to sharpen the defence.**
+
+- **A tool that can't be honest about its limits is a liability.** Every detector I ship says out loud what it *cannot* see. Nyx admits it's deaf to steady infrared. Janus admits a full-speed BadUSB is indistinguishable from a real flash drive. They never grade a device "safe".
+- **If it grades, it grades the truth.** Bastion gives *every* 125 kHz badge an F — because not one of them actually authenticates. That verdict is the lesson.
+- **Consent is physical, never covert.** No default credentials, no hidden modes, no silent capture. Offensive tooling is scope-gated and built for authorised labs only.
+- **Passive beats loud.** Most of my radio work only listens. Pharos fences transmit at link time so the firmware *cannot* talk back.
+
+---
+
+## ⚡ Featured Work
+
+| Project | What it does | |
+| :--- | :--- | :--- |
+| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Specter-FlipperZero?style=flat&color=FFD700&label=) |
+| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/VMware-Hidden-Mode?style=flat&color=FFD700&label=) |
+| **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/RollCall-FlipperZero?style=flat&color=FFD700&label=) |
+| **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/GhostTag-FlipperZero?style=flat&color=FFD700&label=) |
+| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Nyx-FlipperZero?style=flat&color=FFD700&label=) |
+| **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Sibyl-FlipperZero?style=flat&color=FFD700&label=) |
+| **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Sinon?style=flat&color=FFD700&label=) |
+| **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success?style=flat&color=FFD700&label=) |
+
+---
+
+## 🐬 The Flipper Zero Arsenal
+
+**29 apps**, all open source, all written in C against the official SDK. Most of them only listen.
+
+<details>
+<summary><b>🔎 Catch someone watching you — counter-surveillance (11)</b></summary>
+
+<br>
+
+| App | What it finds |
+| :--- | :--- |
+| [**Specter**](https://github.com/at0m-b0mb/Specter-FlipperZero) | A hidden 13.56 MHz reader inside an ATM, door panel or fuel-pump card slot |
+| [**Nyx**](https://github.com/at0m-b0mb/Nyx-FlipperZero) | Covert night-vision cameras, by the near-IR light they leak |
+| [**GhostTag**](https://github.com/at0m-b0mb/GhostTag-FlipperZero) | An AirTag, Tile or SmartTag that has been *following* you |
+| [**Vulpes**](https://github.com/at0m-b0mb/Vulpes-FlipperZero) | The transmitter itself — hot-and-cold hunt, then a body-shielded bearing rose |
+| [**Skimscan**](https://github.com/at0m-b0mb/Skimscan-FlipperZero) | The two-dollar Bluetooth bridge inside a skimmed fuel pump or ATM |
+| [**Argus**](https://github.com/at0m-b0mb/Argus-FlipperZero) | Deauth floods and evil-twin access points on your Wi-Fi |
+| [**Bulwark**](https://github.com/at0m-b0mb/Bulwark-FlipperZero) | BLE popup-spam, using RF test mode on the onboard radio |
+| [**Cerberus**](https://github.com/at0m-b0mb/flipper-cerberus) | Jamming, flooding and replay across the 433 / 868 / 915 MHz bands |
+| [**Cardea**](https://github.com/at0m-b0mb/Cardea-FlipperZero) | A relay attack on your keyless car — by listening for the *key's* reply |
+| [**Meridian**](https://github.com/at0m-b0mb/Meridian-FlipperZero) | GPS spoofing, via 11 integrity checks across 4 independent measurements |
+| [**Janus**](https://github.com/at0m-b0mb/Janus-FlipperZero) | Whether a USB port charges or talks — and whether that "flash drive" is a keyboard |
+
+</details>
+
+<details>
+<summary><b>🏅 Hold a thing, get an honest grade (10)</b></summary>
+
+<br>
+
+| App | Grades | The uncomfortable truth it tells |
+| :--- | :--- | :--- |
+| [**Warden**](https://github.com/at0m-b0mb/Warden-FlipperZero) | 13.56 MHz access badges | Most office badges are a serial number in a costume |
+| [**Bastion**](https://github.com/at0m-b0mb/Bastion-FlipperZero) | 125 kHz badges | Every single one gets an F — none of them authenticate |
+| [**Talos**](https://github.com/at0m-b0mb/Talos-FlipperZero) | iButton / Dallas 1-Wire keys | 41 families, and sequential serials you can guess |
+| [**RollCall**](https://github.com/at0m-b0mb/RollCall-FlipperZero) | Car fobs & garage remotes | Proves the code advances — or that it never did |
+| [**Gatekeeper**](https://github.com/at0m-b0mb/Gatekeeper-FlipperZero) | NFC tag URLs | Leads with the registrable domain, because people read the wrong part |
+| [**Moneta**](https://github.com/at0m-b0mb/Moneta-FlipperZero) | Contactless bank cards | Exactly what your own card hands out, and what it doesn't |
+| [**Faraday**](https://github.com/at0m-b0mb/Faraday-FlipperZero) | Faraday bags & pouches | Real measured dB, not marketing |
+| [**Odograph**](https://github.com/at0m-b0mb/Odograph-FlipperZero) | Tyre pressure sensors | Your car has a licence plate you cannot cover |
+| [**Pheme**](https://github.com/at0m-b0mb/Pheme-FlipperZero) | POCSAG pagers | Hospitals still page patient details in the clear |
+| [**Echo**](https://github.com/at0m-b0mb/Echo-FlipperZero) | Wi-Fi probe requests | Your phone shouts the names of every network you've saved |
+
+</details>
+
+<details>
+<summary><b>🔬 Learn the radio, take it apart (8)</b></summary>
+
+<br>
+
+| App | What it's for |
+| :--- | :--- |
+| [**Sibyl**](https://github.com/at0m-b0mb/Sibyl-FlipperZero) | Identify what kind of device sent a Sub-GHz signal — Shazam for RF |
+| [**Aurora**](https://github.com/at0m-b0mb/Aurora-FlipperZero) | Live spectrum over a scrolling waterfall, on the internal CC1101 |
+| [**Rosetta**](https://github.com/at0m-b0mb/Rosetta-FlipperZero) | Animated walkthroughs of Mifare Crypto1, OOK/PSK and 1-Wire, with live capture |
+| [**Hermes**](https://github.com/at0m-b0mb/Hermes-FlipperZero) | UART baud detector and console tap — measures the bit time, then verifies it |
+| [**Gauntlet**](https://github.com/at0m-b0mb/Gauntlet-FlipperZero) | An on-device CTF box with loadable challenge packs and a decoder toolkit |
+| [**GlitchTrigger**](https://github.com/at0m-b0mb/GlitchTrigger-FlipperZero) | Cycle-accurate GPIO pulses for fault-injection study on your own boards |
+| [**Wraith**](https://github.com/at0m-b0mb/Wraith-FlipperZero) | Controller for ESP32 Marauder boards — dual-band Wi-Fi, BLE, GPS and 433 MHz |
+| [**Trident**](https://github.com/at0m-b0mb/Trident-FlipperZero) | One app, three radios: ESP32 + NRF24 + CC1101 on a 3-in-1 board |
+
+</details>
+
+---
+
+## 📡 Embedded & Firmware
+
+<details>
+<summary><b>ESP32, Pico and friends (9)</b></summary>
+
+<br>
+
+| Project | Board | What it does |
+| :--- | :--- | :--- |
+| [**Pharos**](https://github.com/at0m-b0mb/Pharos-ESP32S3) | ESP32-S3 round AMOLED | Receive-only RF observatory — transmit is fenced at link time |
+| [**Aegis**](https://github.com/at0m-b0mb/Aegis-ESP32-S3-GEEK) | ESP32-S3-GEEK | Passive Wi-Fi/BLE blue-team airspace guardian |
+| [**Dolos**](https://github.com/at0m-b0mb/Dolos-ESP32-S3-GEEK) | ESP32-S3-GEEK | Aegis's red-team sibling — safety-gated USB-HID payload runner |
+| [**Basanos**](https://github.com/at0m-b0mb/Basanos-ESP32-S3) | ESP32-S3 LCD 1.54" | A proving ground for the detectors above. Manual, single-target, RBAC-gated |
+| [**Orthrus**](https://github.com/at0m-b0mb/Orthrus-CardputerAdv) | M5Stack Cardputer-Adv | Handheld LoRaWAN security assessment — presence is proof, absence is not |
+| [**NightWatchGuard**](https://github.com/at0m-b0mb/NightWatchGaurd) | Raspberry Pi Pico | IoT security gateway with TLS |
+| [**Kali Pi5 Image Builder**](https://github.com/at0m-b0mb/Kali-Pi5-Image-Builder) | Raspberry Pi 5 | Automated custom Kali image builds |
+| [**pico-sync**](https://github.com/at0m-b0mb/pico-sync) | Pico / MicroPython | Copy files and folders over the serial port |
+| [**ATtiny85 Flasher**](https://github.com/at0m-b0mb/Easy-ATtiny85-Bootloader-Flasher) | ATtiny85 | Burn the bootloader using an Arduino as ISP |
+
+</details>
+
+---
+
+## 🖥️ Desktop & Endpoint Security
+
+<details>
+<summary><b>Tools you run on a real machine (16)</b></summary>
+
+<br>
+
+| Project | What it does |
+| :--- | :--- |
+| [**VMware Hidden Mode**](https://github.com/at0m-b0mb/VMware-Hidden-Mode) | Defeat VM detection in a malware-analysis lab — Intel and Apple Silicon |
+| [**DuckHound**](https://github.com/at0m-b0mb/DuckHound) | Catch BadUSB / Rubber Ducky keystroke injection by its inhuman typing rhythm |
+| [**Lares**](https://github.com/at0m-b0mb/Lares-Windows) | Autonomous Windows hardening agent with an embedded local LLM — verify and auto-rollback, never freehand code |
+| [**DeepSentinel**](https://github.com/at0m-b0mb/DeepSentinel) | Deepfake detection and education — FFT, ELA, face geometry, SRM noise |
+| [**MacRecon**](https://github.com/at0m-b0mb/MacRecon) | macOS information gathering and security audit, identity redacted by default |
+| [**WinRecon**](https://github.com/at0m-b0mb/Windows-Info-Gatherer) | The Windows counterpart — 7 collectors plus a security-findings pass |
+| [**AirDriver**](https://github.com/at0m-b0mb/AirDriver) | Wi-Fi adapter driver manager for Kali & Parrot — 1258 chipset IDs, sysfs-native detection |
+| [**Charon**](https://github.com/at0m-b0mb/Charon) | SFTP / FTPS client with copy-paste transfers and host keys checked before auth |
+| [**Tessera**](https://github.com/at0m-b0mb/Tessera) | Install, configure and remove WireGuard, OpenVPN and Tailscale on any Linux server |
+| [**ArtifactScope**](https://github.com/at0m-b0mb/ArtifactScope) | Cross-platform digital forensics toolkit |
+| [**Metadateditor**](https://github.com/at0m-b0mb/Metadateditor) | Universal metadata editor for OSINT and forensics |
+| [**NmapAutomator**](https://github.com/at0m-b0mb/NmapAutomator) | Menu-driven Nmap automation for OSCP / HTB workflows |
+| [**Windows Security Enhancer**](https://github.com/at0m-b0mb/Windows-Security-Enhancer) | PowerShell hardening utility |
+| [**DiskImager**](https://github.com/at0m-b0mb/DiskImager) | Cross-platform disk imaging, cloning and flashing |
+| [**archive-cracker**](https://github.com/at0m-b0mb/archive-cracker) | Multi-format archive password recovery — ZIP, RAR, 7Z, TAR |
+| [**human-type**](https://github.com/at0m-b0mb/human-type) | Types text the way a person does — drifting rhythm, per-key effort, real mistakes |
+
+</details>
+
+---
+
+## 🤖 AI & Agent Security
+
+<details>
+<summary><b>Securing the things that now write the code (5)</b></summary>
+
+<br>
+
+| Project | What it does |
+| :--- | :--- |
+| [**Sinon**](https://github.com/at0m-b0mb/Sinon) | AI agent pentest kit — 54 probes for prompt injection, tool abuse and over-permission. Skips are not passes |
+| [**PurpleMCP**](https://github.com/at0m-b0mb/PurpleMCP) | Purple-team lab for the Model Context Protocol — 23 attacks, 18 guardrails |
+| [**Whetstone**](https://github.com/at0m-b0mb/Whetstone) | A purple-team runtime where every attack must name the detection that should catch it — silence is the finding |
+| [**Hermes Agent Console**](https://github.com/at0m-b0mb/Hermes-Agent-Console) | Hire AI agents, give them jobs, watch them work. Zero dependencies, human-in-the-loop on anything that leaves the box |
+| [**ClaudeForge**](https://github.com/at0m-b0mb/ClaudeForge) | Installer, hardware benchmarker and model recommender for Claude Code |
+
+</details>
+
+---
+
+## 🎓 Labs, Research & Study
+
+<details>
+<summary><b>Blue-team stacks, CTFs and coursework (10)</b></summary>
+
+<br>
+
+| Project | What it covers |
+| :--- | :--- |
+| [**Cracking OSCP**](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success) | The full roadmap to OSCP, companion to the PEN-200 video series |
+| [**PortSwigger Web Security Academy**](https://github.com/at0m-b0mb/Portswigger-Web-Security-Academy) | Worked solutions and code walkthroughs |
+| [**Sysmon → ELK**](https://github.com/at0m-b0mb/Sysmon-Logs-To-Elastic-Search-ELK) | End-to-end SIEM pipeline from Windows endpoints |
+| [**HELK on Docker**](https://github.com/at0m-b0mb/HELK-Container-Security-DOCKER-Elastic-Search) | Hunting ELK deployment for container security |
+| [**T-Pot + Elasticsearch**](https://github.com/at0m-b0mb/Cybersecurity-Insights-TPot-Elasticsearch) | Honeypot telemetry, visualised |
+| [**REMnux + Volatility**](https://github.com/at0m-b0mb/Malware-Analysis-with-Remnux-and-Volatility) | Malware dissection and memory forensics |
+| [**Mercury General Hospital**](https://github.com/at0m-b0mb/Mercury-General-Hospital) | A hospital-network CTF machine built in PHP and Docker |
+| [**Slot Machine Analysis**](https://github.com/at0m-b0mb/Slot-Machine-Vulnerability-Analysis) | Adversarial review of a backdoored gaming system |
+| [**AID System Analysis**](https://github.com/at0m-b0mb/AID-System-Security-Analysis) | Threat modelling an artificial insulin delivery system |
+| [**Smart Thermostat Security**](https://github.com/at0m-b0mb/smart-thermostat-security) | Secure-by-design IoT build in Go |
+
+</details>
+
+<details>
+<summary><b>⚔️ Offensive proofs-of-concept — authorised labs only</b></summary>
+
+<br>
+
+> These exist to be studied and defended against. Run them only against systems you own or have **written permission** to test.
+
+| Project | Scope |
+| :--- | :--- |
+| [**C2-Server**](https://github.com/at0m-b0mb/C2-Server) | Educational command-and-control framework |
+| [**Wifi-Killer**](https://github.com/at0m-b0mb/Wifi-Killer) | Host discovery, ARP MITM and per-device internet cut-off |
+| [**ethical-keylogger**](https://github.com/at0m-b0mb/ethical-keylogger) | Keystroke / clipboard / screen capture for lab use |
+| [**alexa-attack**](https://github.com/at0m-b0mb/alexa-attack) | ARP MITM and DoS against a smart speaker you own |
+| [**parrot-bebop2-exploits**](https://github.com/at0m-b0mb/parrot-bebop2-exploits) | Two DoS PoCs against a Parrot Bebop 2 drone |
+
+</details>
+
+---
+
+## 📱 Android & ⌚ Apple Watch
+
+<details>
+<summary><b>Mobile tooling and off-duty watchOS builds (11)</b></summary>
+
+<br>
+
+**Android forensics & recovery**
+
+| Project | What it does |
+| :--- | :--- |
+| [**AndroidROMExtractor**](https://github.com/at0m-b0mb/AndroidROMExtractor) | Back up, extract and analyse Android ROM images |
+| [**RootDroid**](https://github.com/at0m-b0mb/RootDroid) | Rooting and bootloader toolkit — fastboot, BROM exploit, Magisk |
+| [**AndroidUniversalRecovery**](https://github.com/at0m-b0mb/AndroidUniversalRecovery) | Dockerised unbricking via adb, TWRP and friends |
+
+**Apple Watch — because a wrist is a fun constraint**
+
+| App | What it is |
+| :--- | :--- |
+| [**WatchTube**](https://github.com/at0m-b0mb/WatchTube) | Standalone, keyless YouTube client for watchOS — on-watch search and HLS playback |
+| [**Cipher**](https://github.com/at0m-b0mb/Cipher) | iPhone + Watch cybersecurity course — red team, blue team, daily drills |
+| [**Firewall**](https://github.com/at0m-b0mb/Firewall) | A packet-defence arcade. Block malware, pass the good traffic |
+| [**Pulsar**](https://github.com/at0m-b0mb/Pulsar) | Neon space arcade — orbit a star with the Digital Crown |
+| [**Lumen**](https://github.com/at0m-b0mb/Lumen) | Lights Out puzzler, 40 levels across 4 worlds |
+| [**NovaWing**](https://github.com/at0m-b0mb/NovaWing) | Galaga-style shooter with Crown steering |
+| [**TiltMaze**](https://github.com/at0m-b0mb/TiltMaze) | CoreMotion labyrinth — tilt to roll |
+| [**DepthDiver**](https://github.com/at0m-b0mb/DepthDiver) | Arcade dive game for Apple Watch Ultra |
+
+</details>
 
 ---
 
@@ -47,6 +290,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Apowershell"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aat0m-b0mb+language%3Aperl"><img alt="Perl" src="https://img.shields.io/badge/Perl-39457E.svg?logo=perl&logoColor=white"></a>
@@ -148,6 +393,21 @@ I firmly believe that education is a birthright, and it should be accessible to 
       <a href="#"><img alt="ltrace" src="https://img.shields.io/badge/ltrace-5C5C5C.svg?logo=linux&logoColor=white"></a>
   </p>
 
+  <h3>📡 Hardware, RF & Embedded</h3>
+
+  <p>
+      <a href="#"><img alt="Flipper Zero" src="https://img.shields.io/badge/Flipper%20Zero-FF8200.svg?logo=dolphin&logoColor=white"></a>
+      <a href="#"><img alt="ESP-IDF" src="https://img.shields.io/badge/ESP--IDF-E7352C.svg?logo=espressif&logoColor=white"></a>
+      <a href="#"><img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-FF7F00.svg?logo=platformio&logoColor=white"></a>
+      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white"></a>
+      <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?logo=raspberrypi&logoColor=white"></a>
+      <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728.svg?logo=micropython&logoColor=white"></a>
+      <a href="#"><img alt="CC1101" src="https://img.shields.io/badge/CC1101%20Sub--GHz-0D1117.svg?logo=signal&logoColor=white"></a>
+      <a href="#"><img alt="RTL-SDR" src="https://img.shields.io/badge/RTL--SDR-004C99.svg?logo=airplayaudio&logoColor=white"></a>
+      <a href="#"><img alt="Proxmark3" src="https://img.shields.io/badge/Proxmark3-343434.svg?logo=contactlesspayment&logoColor=white"></a>
+      <a href="#"><img alt="Logic Analyzer" src="https://custom-icon-badges.demolab.com/badge/Logic%20Analyzer-1C1C1C.svg?logo=pulse&logoColor=white"></a>
+  </p>
+
   <h3>💻 Operating Systems & Environments</h3>
 
   <p>
@@ -157,6 +417,7 @@ I firmly believe that education is a birthright, and it should be accessible to 
       <a href="#"><img alt="Tails OS" src="https://img.shields.io/badge/Tails%20OS-56347C.svg?logo=linux&logoColor=white"></a>
       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white"></a>
@@ -191,7 +452,8 @@ I firmly believe that education is a birthright, and it should be accessible to 
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS-302E31.svg?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC.svg?logo=bitwarden&logoColor=white"></a>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=Arduino&logoColor=white"></a>
+      <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt%20%2F%20PySide6-41CD52.svg?logo=qt&logoColor=white"></a>
+      <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0071E3.svg?logo=swift&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   </p>
@@ -205,24 +467,56 @@ I firmly believe that education is a birthright, and it should be accessible to 
 
 <!-- END YOUTUBE-CARDS -->
 
+<div align="center">
+
+I teach ethical hacking and cybersecurity for free on **[HackProKP](https://www.youtube.com/@HackProKP)** — OSCP / PEN-200 walkthroughs, hardware builds and protocol deep-dives.
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@HackProKP?sub_confirmation=1)
 
-#
+</div>
+
+---
 
 ### 📊 Stats
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=at0m-b0mb&theme=highcontrast&fire=FFD700&ring=FFA500&border=DD6E42&hide_border=false" width = 415 />
-  <img src = "https://github-readme-activity-graph.vercel.app/graph/?username=at0m-b0mb&bg_color=FFD700&color=FF6347&line=FF0000&point=FFFFFF&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=at0m-b0mb&theme=highcontrast&fire=FFD700&ring=FFA500&border=DD6E42&hide_border=false" width="500" alt="GitHub streak stats" />
 </p>
 
-#
+---
 
-### 👨‍💻 Kailash Parshad's Cyber Security Journey
-   Currently pursuing a specialization in Cyber Security, Ethical Hacking, and Penetration Testing at Vellore Institute of Technology, I've honed skills in leadership, programming languages like Python and Java, and effective communication. My educational journey has empowered me to bring a holistic approach to cybersecurity problem-solving. I'm a firm believer in keeping life simple and meaningful. My primary goal is to succeed, not just for myself, but to honor the sacrifices my family made to support my dreams. As I strive for success, I'm driven by the desire to ensure their dreams come true too. In the end, I encourage everyone to chase their dreams, follow their hearts, and pursue happiness relentlessly. Success, in any field, is attainable when driven by passion and guided by dedication.
-✨Arise, awake, and stop not till the goal is reached✨
+### 👨‍💻 My Cyber Security Journey
+
+Currently pursuing a specialization in Cyber Security, Ethical Hacking and Penetration Testing at **Vellore Institute of Technology**, I've honed skills in leadership, programming languages like Python and C, and effective communication. My educational journey has empowered me to bring a holistic approach to cybersecurity problem-solving.
+
+I'm a firm believer in keeping life simple and meaningful. My primary goal is to succeed — not just for myself, but to honour the sacrifices my family made to support my dreams. As I strive for success, I'm driven by the desire to ensure their dreams come true too. In the end, I encourage everyone to chase their dreams, follow their hearts, and pursue happiness relentlessly. Success, in any field, is attainable when driven by passion and guided by dedication.
+
+### 🚀 My Mission
+
+I firmly believe education is a birthright, and it should be accessible to all. With this conviction I launched **HackProKP**, where I'm committed to offering free education in ethical hacking and cybersecurity. It's my way of contributing to a safer digital world, and ensuring that knowledge knows no boundaries.
+
+<div align="center">
+
+**✨ Arise, awake, and stop not till the goal is reached ✨**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Find Me
+
+[![Website](https://img.shields.io/badge/Portfolio-02F707?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://at0m-b0mb.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HackProKP)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/HackProKP)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/at0m-b0mb)
+
+<img src="https://komarev.com/ghpvc/?username=at0m-b0mb&label=Profile%20views&color=FFD700&style=flat-square" alt="profile views" />
+
+</div>
 
 [website]: https://at0m-b0mb.github.io/
 [YouTube]: https://youtube.com/@HackProKP
 
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+<img src="https://i.imgur.com/6tu60vO.gif" width="300000" alt="horizontal super thin rainbow RGB line">
