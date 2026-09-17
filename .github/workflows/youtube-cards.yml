@@ -16,7 +16,10 @@ jobs:
       - id: cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          # The action declares channel_id optional with an empty default, so an
+          # unset secret silently queries nothing. The id is public, so fall back
+          # to it rather than depending on the secret being present.
+          channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID || 'UC2AMoUO4AwOk69rFFliDfKQ' }}
           lang: en
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
