@@ -13,7 +13,8 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - id: cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           lang: en
@@ -36,3 +37,17 @@ jobs:
           readme_path: README.md
           output_only: false
           output_type: html
+
+      # The action reports success even when the API returns nothing, which is
+      # how this section silently emptied itself on 2026-09-08 and stayed blank.
+      # Turn that into a visible failure.
+      - name: Verify cards were actually generated
+        if: always() && steps.cards.outcome == 'success'
+        env:
+          CARDS: ${{ steps.cards.outputs.markdown }}
+        run: |
+          if [ -z "${CARDS//[[:space:]]/}" ]; then
+            echo "::error::The action produced no cards. YOUTUBE_API_KEY is most likely expired, restricted to the wrong API, or out of quota; YOUTUBE_CHANNEL_ID may also be unset."
+            exit 1
+          fi
+          echo "Generated $(printf '%s' "$CARDS" | grep -c '<a href' || true) card(s)."

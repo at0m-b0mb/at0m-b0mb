@@ -1,0 +1,64 @@
+name: YouTube Stats
+
+on:
+  schedule:
+    # Daily, deliberately offset from the YouTube Cards job so the two
+    # workflows do not try to commit to README.md at the same moment.
+    - cron: "40 5 * * *"
+  workflow_dispatch:
+
+# Only one run at a time, so a slow run cannot race a newer one.
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # Distinguish "not set up yet" (skip quietly) from "set up but broken"
+      # (fail loudly further down). Silence is what hid the last breakage.
+      - name: Check the API key is present
+        id: guard
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "::notice::YOUTUBE_API_KEY is not set - skipping. Add it under Settings > Secrets and variables > Actions."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch statistics and update README
+        id: stats
+        if: steps.guard.outputs.configured == 'true'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID || 'UC2AMoUO4AwOk69rFFliDfKQ' }}
+          CHANNEL_URL: https://www.youtube.com/@HackProKP
+          README_PATH: README.md
+        run: python3 .github/scripts/youtube_stats.py
+
+      - name: Commit the refreshed numbers
+        if: steps.stats.outputs.changed == 'true'
+        env:
+          GIT_AUTHOR_NAME: GitHub Actions
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: GitHub Actions
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add README.md
+          git commit -m "docs(readme): Update YouTube stats"
+          # The cards job writes to the same file; rebase rather than clobber.
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push attempt ${attempt} failed, retrying"
+            sleep 5
+          done
+          echo "::error::Could not push the updated README after 3 attempts."
+          exit 1
