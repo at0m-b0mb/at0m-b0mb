@@ -10,6 +10,7 @@ on:
     paths:
       - ".github/data/featured.json"
       - ".github/scripts/github_stats.py"
+      - ".github/scripts/badge.py"
 
 concurrency:
   group: readme-writer
@@ -42,7 +43,7 @@ jobs:
           GIT_COMMITTER_NAME: GitHub Actions
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
-          git add README.md
+          git add README.md .github/badges
           git commit -m "docs(readme): Update GitHub stats"
           for attempt in 1 2 3; do
             git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0

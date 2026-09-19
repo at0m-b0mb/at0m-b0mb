@@ -16,9 +16,9 @@
 <a href="https://www.youtube.com/@HackProKP/videos"><img alt="Videos" src="https://custom-icon-badges.demolab.com/badge/Videos-39-%234C1F7A?style=for-the-badge&logo=play&logoColor=white&labelColor=3B1760"/></a>
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
-<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow" src="https://img.shields.io/badge/Follow-35-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/badge/Stars-491-55960c?style=for-the-badge&logo=star&logoColor=white&labelColor=488207"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-104-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=C79600"/></a>
+<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 35" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=35"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 491" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=491"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 104" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=104"/></a>
 <!-- END GITHUB-STATS -->
 
 </div>
@@ -60,14 +60,14 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 <!-- BEGIN FEATURED -->
 | Project | What it does | |
 | :--- | :--- | :--- |
-| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![stars](https://img.shields.io/badge/102-FFD700?style=flat&logo=star&logoColor=white) |
-| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![stars](https://img.shields.io/badge/23-FFD700?style=flat&logo=star&logoColor=white) |
-| **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![stars](https://img.shields.io/badge/13-FFD700?style=flat&logo=star&logoColor=white) |
-| **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![stars](https://img.shields.io/badge/12-FFD700?style=flat&logo=star&logoColor=white) |
-| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![stars](https://img.shields.io/badge/11-FFD700?style=flat&logo=star&logoColor=white) |
-| **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![stars](https://img.shields.io/badge/9-FFD700?style=flat&logo=star&logoColor=white) |
-| **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![stars](https://img.shields.io/badge/3-FFD700?style=flat&logo=star&logoColor=white) |
-| **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![stars](https://img.shields.io/badge/10-FFD700?style=flat&logo=star&logoColor=white) |
+| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![102 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=102) |
+| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![23 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=23) |
+| **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![13 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-rollcall-flipperzero.svg?v=13) |
+| **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![12 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-ghosttag-flipperzero.svg?v=12) |
+| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![11 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-nyx-flipperzero.svg?v=11) |
+| **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![9 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-sibyl-flipperzero.svg?v=9) |
+| **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![3 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-sinon.svg?v=3) |
+| **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![10 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-cracking-oscp-your-roadmap-to-ethical-hacking-success.svg?v=10) |
 <!-- END FEATURED -->
 
 ---
