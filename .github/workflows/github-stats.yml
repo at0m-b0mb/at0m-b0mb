@@ -1,0 +1,53 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+  # Keep the Featured table in step with its data file.
+  push:
+    branches: [main]
+    paths:
+      - ".github/data/featured.json"
+      - ".github/scripts/github_stats.py"
+
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # No secret needed: GITHUB_TOKEN is issued to the run, and being
+      # authenticated means 5000 requests/hour instead of the anonymous 60.
+      - name: Bake the counts into README
+        id: stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: at0m-b0mb
+          README_PATH: README.md
+          FEATURED_PATH: .github/data/featured.json
+        run: python3 .github/scripts/github_stats.py
+
+      - name: Commit the refreshed counts
+        if: steps.stats.outputs.changed == 'true'
+        env:
+          GIT_AUTHOR_NAME: GitHub Actions
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: GitHub Actions
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add README.md
+          git commit -m "docs(readme): Update GitHub stats"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push attempt ${attempt} failed, retrying"
+            sleep 5
+          done
+          echo "::error::Could not push the updated README after 3 attempts."
+          exit 1

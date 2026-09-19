@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Specter",
+    "repo": "Specter-FlipperZero",
+    "blurb": "Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna."
+  },
+  {
+    "name": "VMware Hidden Mode",
+    "repo": "VMware-Hidden-Mode",
+    "blurb": "13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab."
+  },
+  {
+    "name": "RollCall",
+    "repo": "RollCall-FlipperZero",
+    "blurb": "Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F."
+  },
+  {
+    "name": "GhostTag",
+    "repo": "GhostTag-FlipperZero",
+    "blurb": "Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists."
+  },
+  {
+    "name": "Nyx",
+    "repo": "Nyx-FlipperZero",
+    "blurb": "Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't."
+  },
+  {
+    "name": "Sibyl",
+    "repo": "Sibyl-FlipperZero",
+    "blurb": "Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it."
+  },
+  {
+    "name": "Sinon",
+    "repo": "Sinon",
+    "blurb": "AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts."
+  },
+  {
+    "name": "Cracking OSCP",
+    "repo": "Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success",
+    "blurb": "My full roadmap to OSCP — the companion to the PEN-200 series on the channel."
+  }
+]

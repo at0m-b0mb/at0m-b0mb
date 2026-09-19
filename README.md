@@ -15,12 +15,11 @@
 <a href="https://www.youtube.com/@HackProKP"><img alt="Views" src="https://custom-icon-badges.demolab.com/badge/Views-33.5K-%23E1AD0E?style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/></a>
 <a href="https://www.youtube.com/@HackProKP/videos"><img alt="Videos" src="https://custom-icon-badges.demolab.com/badge/Videos-39-%234C1F7A?style=for-the-badge&logo=play&logoColor=white&labelColor=3B1760"/></a>
 <!-- END YOUTUBE-STATS -->
-<a href="https://github.com/at0m-b0mb?tab=followers">
-   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/at0m-b0mb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/at0m-b0mb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories">
-   <img alt="public repos" title="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fat0m-b0mb&query=%24.public_repos&label=Repos&color=FFD700&labelColor=C79600&style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- BEGIN GITHUB-STATS -->
+<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow" src="https://img.shields.io/badge/Follow-35-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/badge/Stars-491-55960c?style=for-the-badge&logo=star&logoColor=white&labelColor=488207"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-104-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=C79600"/></a>
+<!-- END GITHUB-STATS -->
 
 </div>
 
@@ -58,16 +57,18 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 
 ## ⚡ Featured Work
 
+<!-- BEGIN FEATURED -->
 | Project | What it does | |
 | :--- | :--- | :--- |
-| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Specter-FlipperZero?style=flat&color=FFD700&label=) |
-| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/VMware-Hidden-Mode?style=flat&color=FFD700&label=) |
-| **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/RollCall-FlipperZero?style=flat&color=FFD700&label=) |
-| **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/GhostTag-FlipperZero?style=flat&color=FFD700&label=) |
-| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Nyx-FlipperZero?style=flat&color=FFD700&label=) |
-| **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Sibyl-FlipperZero?style=flat&color=FFD700&label=) |
-| **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Sinon?style=flat&color=FFD700&label=) |
-| **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![stars](https://img.shields.io/github/stars/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success?style=flat&color=FFD700&label=) |
+| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![stars](https://img.shields.io/badge/102-FFD700?style=flat&logo=star&logoColor=white) |
+| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![stars](https://img.shields.io/badge/23-FFD700?style=flat&logo=star&logoColor=white) |
+| **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![stars](https://img.shields.io/badge/13-FFD700?style=flat&logo=star&logoColor=white) |
+| **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![stars](https://img.shields.io/badge/12-FFD700?style=flat&logo=star&logoColor=white) |
+| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![stars](https://img.shields.io/badge/11-FFD700?style=flat&logo=star&logoColor=white) |
+| **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![stars](https://img.shields.io/badge/9-FFD700?style=flat&logo=star&logoColor=white) |
+| **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![stars](https://img.shields.io/badge/3-FFD700?style=flat&logo=star&logoColor=white) |
+| **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![stars](https://img.shields.io/badge/10-FFD700?style=flat&logo=star&logoColor=white) |
+<!-- END FEATURED -->
 
 ---
 
