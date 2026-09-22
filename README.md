@@ -17,8 +17,8 @@
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
 <a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 36" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=36"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 496" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=496"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 104" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=104"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 501" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=501"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 105" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=105"/></a>
 <!-- END GITHUB-STATS -->
 
 </div>
@@ -60,11 +60,11 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 <!-- BEGIN FEATURED -->
 | Project | What it does | |
 | :--- | :--- | :--- |
-| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![103 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=103) |
-| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![23 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=23) |
+| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![104 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=104) |
+| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![24 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=24) |
 | **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![13 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-rollcall-flipperzero.svg?v=13) |
 | **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![12 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-ghosttag-flipperzero.svg?v=12) |
-| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![11 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-nyx-flipperzero.svg?v=11) |
+| **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![12 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-nyx-flipperzero.svg?v=12) |
 | **[Sibyl](https://github.com/at0m-b0mb/Sibyl-FlipperZero)** | Shazam for RF. Capture any Sub-GHz burst and find out what kind of device sent it. | ![9 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-sibyl-flipperzero.svg?v=9) |
 | **[Sinon](https://github.com/at0m-b0mb/Sinon)** | AI agent pentest kit — a 54-probe corpus for prompt injection, tool abuse and over-permission, with canary-verified verdicts. | ![3 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-sinon.svg?v=3) |
 | **[Cracking OSCP](https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success)** | My full roadmap to OSCP — the companion to the PEN-200 series on the channel. | ![10 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-cracking-oscp-your-roadmap-to-ethical-hacking-success.svg?v=10) |
