@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/@HackProKP/videos"><img alt="Videos" src="https://custom-icon-badges.demolab.com/badge/Videos-39-%234C1F7A?style=for-the-badge&logo=play&logoColor=white&labelColor=3B1760"/></a>
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
-<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 37" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=37"/></a>
+<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 39" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=39"/></a>
 <a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 601" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=601"/></a>
 <a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 105" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=105"/></a>
 <!-- END GITHUB-STATS -->
