@@ -12,7 +12,7 @@
 
 <!-- BEGIN YOUTUBE-STATS -->
 <a href="https://www.youtube.com/@HackProKP?sub_confirmation=1"><img alt="SUBSCRIBE" src="https://custom-icon-badges.demolab.com/badge/SUBSCRIBE-210-%23E05D44?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630"/></a>
-<a href="https://www.youtube.com/@HackProKP"><img alt="Views" src="https://custom-icon-badges.demolab.com/badge/Views-33.5K-%23E1AD0E?style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/></a>
+<a href="https://www.youtube.com/@HackProKP"><img alt="Views" src="https://custom-icon-badges.demolab.com/badge/Views-33.6K-%23E1AD0E?style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/></a>
 <a href="https://www.youtube.com/@HackProKP/videos"><img alt="Videos" src="https://custom-icon-badges.demolab.com/badge/Videos-39-%234C1F7A?style=for-the-badge&logo=play&logoColor=white&labelColor=3B1760"/></a>
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
