@@ -17,8 +17,8 @@
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
 <a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 44" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=44"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 692" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=692"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 115" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=115"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 694" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=694"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 116" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=116"/></a>
 <!-- END GITHUB-STATS -->
 
 </div>
@@ -60,7 +60,7 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 <!-- BEGIN FEATURED -->
 | Project | What it does | |
 | :--- | :--- | :--- |
-| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![110 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=110) |
+| **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![111 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=111) |
 | **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![34 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=34) |
 | **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![17 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-rollcall-flipperzero.svg?v=17) |
 | **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![20 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-ghosttag-flipperzero.svg?v=20) |
