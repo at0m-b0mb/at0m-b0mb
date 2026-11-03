@@ -16,9 +16,9 @@
 <a href="https://www.youtube.com/@HackProKP/videos"><img alt="Videos" src="https://custom-icon-badges.demolab.com/badge/Videos-39-%234C1F7A?style=for-the-badge&logo=play&logoColor=white&labelColor=3B1760"/></a>
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
-<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 45" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=45"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 703" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=703"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 116" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=116"/></a>
+<a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 46" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=46"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 707" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=707"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 117" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=117"/></a>
 <!-- END GITHUB-STATS -->
 
 </div>
@@ -61,7 +61,7 @@ Greetings! I'm **Kailash Parshad** — a dedicated Ethical Hacker, Penetration T
 | Project | What it does | |
 | :--- | :--- | :--- |
 | **[Specter](https://github.com/at0m-b0mb/Specter-FlipperZero)** | Sweeps for a hidden 13.56 MHz NFC reader buried in an ATM or card terminal — using nothing but the Flipper's own antenna. | ![112 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-specter-flipperzero.svg?v=112) |
-| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![37 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=37) |
+| **[VMware Hidden Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)** | 13 tiers of VMX patching plus guest cleanup, so malware stops noticing it's being watched in a lab. | ![38 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-vmware-hidden-mode.svg?v=38) |
 | **[RollCall](https://github.com/at0m-b0mb/RollCall-FlipperZero)** | Press your own key fob and *prove* the rolling code actually rolls. Graded A/B/C/F. | ![17 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-rollcall-flipperzero.svg?v=17) |
 | **[GhostTag](https://github.com/at0m-b0mb/GhostTag-FlipperZero)** | Anti-stalking tracker hunter — tells you an AirTag has been *following you*, not merely that one exists. | ![20 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-ghosttag-flipperzero.svg?v=20) |
 | **[Nyx](https://github.com/at0m-b0mb/Nyx-FlipperZero)** | Finds covert night-vision cameras by the infrared light they leak — and is honest about the ones it can't. | ![16 stars](https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/star-nyx-flipperzero.svg?v=16) |
