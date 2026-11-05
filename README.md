@@ -17,7 +17,7 @@
 <!-- END YOUTUBE-STATS -->
 <!-- BEGIN GITHUB-STATS -->
 <a href="https://github.com/at0m-b0mb?tab=followers"><img alt="Follow: 46" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/follow.svg?v=46"/></a>
-<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 709" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=709"/></a>
+<a href="https://github.com/at0m-b0mb?tab=repositories&sort=stargazers"><img alt="Stars: 711" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/stars.svg?v=711"/></a>
 <a href="https://github.com/at0m-b0mb?tab=repositories"><img alt="Repos: 117" src="https://raw.githubusercontent.com/at0m-b0mb/at0m-b0mb/main/.github/badges/repos.svg?v=117"/></a>
 <!-- END GITHUB-STATS -->
 
